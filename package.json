@@ -14,7 +14,7 @@
     "jsonwebtoken": "latest",
     "knex": "latest",
     "lodash": "latest",
-    "log4js": "^4.5.1",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "objection": "latest",
     "passport": "latest",
